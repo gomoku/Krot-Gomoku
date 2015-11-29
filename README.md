@@ -1,6 +1,6 @@
 Krot Gomoku is a simple Gomoku program. The game is interesing. The game is interesting, therefore, that the brute-force approach here is not very effective. The board has dimensions of 19x19, which gives 361 possible moves first player. After four moves to analyze the number of situations is enormous. Therefore, writing the AI algorithm for this game is very interesting (at least for me).
 
-Written in C++. To compile need FLTK library installed. The program can compile via command: fltk-config --compile main.cpp GNU GPL 2.0 June 1991
+Written in C++. To compile need FLTK library installed. The program can compile via command: fltk-config --compile main.cpp GNU GPL 2.0 June 1991. Country: Poland
 
 Original website: http://krot.rembertow.net/soft_gomoku/
 
